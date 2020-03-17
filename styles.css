@@ -1,0 +1,21 @@
+* {
+  font-family: sans-serif;
+  background-color: rgb(255, 244, 143);
+  }
+
+h1 {
+  color: rgba(11, 52, 128, 0.76);
+  font-weight: 600;
+}
+
+h2 {
+  color: rgba(34, 89, 192, 0.76)
+}
+
+p {
+  color: rgb(85, 4, 54)
+}
+
+li {
+  color: rgba(6, 27, 66, 0.76)
+}
