@@ -1,4 +1,4 @@
-# _Pet Project_
+# [_Pet Project_](https://k8thedinosaur.github.io/pet-project/)
 
 #### _HTML exercise for Epicodus, 3/16/20_
 
